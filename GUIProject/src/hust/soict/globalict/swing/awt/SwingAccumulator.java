@@ -44,4 +44,5 @@ public class SwingAccumulator extends JFrame {
             tfOutput.setText(sum + "");
         }
     }
+
 }
